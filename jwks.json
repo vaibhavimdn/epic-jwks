@@ -1,0 +1,12 @@
+{
+  "keys": [
+    {
+      "kty": "RSA",
+      "use": "sig",
+      "alg": "RS384",
+      "kid": "epic-test-key-1",
+      "n": "rR8jfo7Wdj1TlgWdPjz5cSbJtWEEfr6Zxe0cNwikq70qMxz-dPPIj8-9r0rNILgHcKdVBQ9J2nvBfV_BRnKsbgcR0lM0puMr3Hy0qxRIe9SZ6_IkXXsKgfmGeehOTGUoZGdzbhx7BqqjuVHqZmjK4ldpfnqF5Rn-uJvygvAkXqnUnAqdoWVAC-XFypzJ8EiJX__FYMnS2vq6c44Uf4EyLurxm_njNmD4J8ObLw5sKzXhQ1-3f0P-8WY0Wj3qYbM4MlMEjE_AX9LOn9Wta5f3lPfQ6cJZ02n6JqNfPCmGldx59IPBeK82g6xvvC1OvktXqw__fUmLa_Exry73kiZz1w",
+      "e": "AQAB"
+    }
+  ]
+}
